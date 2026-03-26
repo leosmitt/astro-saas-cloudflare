@@ -18,7 +18,7 @@
   "d1_databases": [
     {
       "binding": "D1",
-      "database_id": "dbdd593f-21a9-41db-b3cc-2f24445df307",
+      "database_id": "05c1ffd4-5adf-4333-83af-4963f0c4fa01",
       "database_name": "astro-payload-ecom",
       "remote": true,
     },
@@ -38,7 +38,7 @@
     // Create a R2 binding with the binding name "NEXT_INC_CACHE_R2_BUCKET"
     // {
     //   "binding": "NEXT_INC_CACHE_R2_BUCKET",
-    //   "bucket_name": "<BUCKET_NAME>",
+    //   "bucket_name": "astro-payload-ecom-backend",
     // },
   ],
 
@@ -50,7 +50,7 @@
   //     "d1_databases": [
   //       {
   //         "binding": "D1",
-  //         "database_id": "DATABASE_ID",
+  //         "database_id": "bf9a46e9-b67b-470c-af22-2537e1708e28",
   //         "database_name": "my-app-staging",
   //         "remote": true
   //       }
@@ -70,7 +70,7 @@
   //       // Create a R2 binding with the binding name "NEXT_INC_CACHE_R2_BUCKET"
   //       // {
   //       //   "binding": "NEXT_INC_CACHE_R2_BUCKET",
-  //       //   "bucket_name": "<BUCKET_NAME>",
+  //       //   "bucket_name": "my-app-staging-backend",
   //       // },
   //     ]
   //   }
