@@ -1,8 +1,8 @@
 {
-	"name": "astro-blog-starter-template",
+	"name": "astro-blog",
 	"description": "Build a personal website, blog, or portfolio with Astro.",
 	"cloudflare": {
-		"label": "Astro Framework Starter",
+		"label": "Astro Framework",
 		"products": [
 			"Workers"
 		],
